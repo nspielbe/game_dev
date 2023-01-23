@@ -7,9 +7,9 @@ cc_binary(
 )
 
 cc_binary(
-    name = "PracticeProblems",
+    name = "Fraction",
     srcs = [ 
-        "PracticeProblems.cpp",
+        "Fraction.cpp",
     ],
     visibility = ["//visibility:public"],
 )
